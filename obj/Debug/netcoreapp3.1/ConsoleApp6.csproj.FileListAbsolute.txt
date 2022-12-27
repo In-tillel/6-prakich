@@ -1,0 +1,16 @@
+D:\C# пркатические\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.exe
+D:\C# пркатические\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.deps.json
+D:\C# пркатические\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.json
+D:\C# пркатические\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.dev.json
+D:\C# пркатические\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\C# пркатические\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\C# пркатические\ConsoleApp6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.AssemblyReference.cache
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfoInputs.cache
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.CopyComplete
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\C# пркатические\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.genruntimeconfig.cache
